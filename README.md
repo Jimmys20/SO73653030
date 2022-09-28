@@ -1,4 +1,6 @@
-# SO73653030
+# Understanding the difference between Authorized Claims and Authorized Roles
+
+https://stackoverflow.com/questions/73653030/understanding-the-difference-between-authorized-claims-and-authorized-roles
 
 After login
 
